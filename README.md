@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/Heva3/Heva3/blob/main/Git_bannerGIF.gif" alt="Banner" />
+</p>
+
+
 ## Hi there 👋
 
 <!--
